@@ -1,0 +1,1 @@
+pyinstaller -F -w -i resources/icon.ico main.py
